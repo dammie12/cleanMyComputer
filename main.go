@@ -1,5 +1,10 @@
 package main
 
+/*
+Author:			Dami Olubanji
+Date:			April 11, 2020
+Description:	Goal is to access recycle bin and temp folder and clean them all
+*/
 import (
 	"fmt"
 	"io/ioutil"
